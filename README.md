@@ -2,6 +2,9 @@
 
 A Streamlit-based WebUI for VOICEVOX TTS.
 
+<img width="1512" alt="image" src="https://github.com/user-attachments/assets/cccce91d-d352-479f-9ef2-8fba71dc8969">
+
+
 
 ## Prerequisites
 
