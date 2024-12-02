@@ -1,0 +1,2 @@
+streamlit>=1.30.0
+voicevox-client>=0.1.4 
