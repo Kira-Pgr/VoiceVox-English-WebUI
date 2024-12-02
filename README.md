@@ -3,9 +3,6 @@
 A Streamlit-based WebUI for VOICEVOX TTS.
 
 
-![image](https://github.com/user-attachments/assets/ea8b4e7b-5ad6-4af1-9fb0-8240f679eeb9)
-
-
 ## Prerequisites
 
 - Python 
