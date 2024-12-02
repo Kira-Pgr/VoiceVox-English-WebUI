@@ -9,7 +9,7 @@ A Streamlit-based WebUI for VOICEVOX TTS.
 ## Prerequisites
 
 - Python 
-- [VOICEVOX Engine](https://github.com/VOICEVOX/voicevox_engine/blob/master/README.md) running locally (default: http://localhost:50021)
+- [VOICEVOX Engine](https://github.com/VOICEVOX/voicevox_engine/blob/master/README.md) running locally (default: http://localhost:50021) OR Download the application [here](https://voicevox.hiroshiba.jp/)
 
 ## Installation
 Clone this repository:
@@ -28,3 +28,5 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+
+
